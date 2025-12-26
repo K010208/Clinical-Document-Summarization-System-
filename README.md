@@ -41,7 +41,7 @@ Postprocessing: Formats summaries for readability.
 
 ⚡ Installation
 # Clone the repository
-git clone https://github.com/yourusername/clinical-llm-summarizer.git
+git clone https://github.com/K010208/Clinical-Document-Summarization-System
 cd clinical-llm-summarizer
 
 # Install dependencies
